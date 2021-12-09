@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+VTYgg8cbHKvWdD5IQkcDsuWmYI0mIcCs9RHZJMfQ6PxsVE+++eXZawy/rrvHhOmF+YiffXJ3lM7z0SRSFEeXA==",
+  "dgSpecHash": "KNCZUYhtqH0GdHp5keyVZnTFcHV1n1A/fpb4ewpZk988BB4tBiiPt1cFGSMw4gacMGrRgunZonDRpWCqabDRTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\titov\\Documents\\GitHub\\PS122019-AlbinaServer\\Bor-Server\\sfgsg\\Albina.BusinesLogic.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\StudentDev\\Documents\\GitHub\\AlbinaV2\\PS122019-AlbinaServer-main\\Bor-Server\\sfgsg\\Albina.BusinesLogic.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\StudentDev\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

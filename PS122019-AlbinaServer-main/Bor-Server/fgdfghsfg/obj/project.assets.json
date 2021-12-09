@@ -250,6 +250,9 @@
       "Albina.BusinesLogic.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AutoMapper": "10.1.1"
+        },
         "compile": {
           "bin/placeholder/Albina.BusinesLogic.Core.dll": {}
         },
@@ -261,6 +264,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "AutoMapper": "10.1.1",
           "Microsoft.EntityFrameworkCore": "3.1.21"
         },
         "compile": {
@@ -273,6 +277,9 @@
       "Shareds/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AutoMapper": "10.1.1"
+        },
         "compile": {
           "bin/placeholder/Shareds.dll": {}
         },
@@ -859,23 +866,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\titov\\.nuget\\packages\\": {},
+    "C:\\Users\\StudentDev\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\titov\\Documents\\GitHub\\PS122019-AlbinaServer\\Bor-Server\\fgdfghsfg\\Albina.BusinesLogic.csproj",
+      "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\AlbinaV2\\PS122019-AlbinaServer-main\\Bor-Server\\fgdfghsfg\\Albina.BusinesLogic.csproj",
       "projectName": "Albina.BusinesLogic",
-      "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS122019-AlbinaServer\\Bor-Server\\fgdfghsfg\\Albina.BusinesLogic.csproj",
-      "packagesPath": "C:\\Users\\titov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\titov\\Documents\\GitHub\\PS122019-AlbinaServer\\Bor-Server\\fgdfghsfg\\obj\\",
+      "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\AlbinaV2\\PS122019-AlbinaServer-main\\Bor-Server\\fgdfghsfg\\Albina.BusinesLogic.csproj",
+      "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\AlbinaV2\\PS122019-AlbinaServer-main\\Bor-Server\\fgdfghsfg\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\titov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\StudentDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -889,14 +896,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\titov\\Documents\\GitHub\\PS122019-AlbinaServer\\Bor-Server\\Albina.DataAccess.Core\\Bor.DataAccess.Core.csproj": {
-              "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS122019-AlbinaServer\\Bor-Server\\Albina.DataAccess.Core\\Bor.DataAccess.Core.csproj"
+            "C:\\Users\\StudentDev\\Documents\\GitHub\\AlbinaV2\\PS122019-AlbinaServer-main\\Bor-Server\\Albina.DataAccess.Core\\Bor.DataAccess.Core.csproj": {
+              "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\AlbinaV2\\PS122019-AlbinaServer-main\\Bor-Server\\Albina.DataAccess.Core\\Bor.DataAccess.Core.csproj"
             },
-            "C:\\Users\\titov\\Documents\\GitHub\\PS122019-AlbinaServer\\Bor-Server\\sfgsg\\Albina.BusinesLogic.Core.csproj": {
-              "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS122019-AlbinaServer\\Bor-Server\\sfgsg\\Albina.BusinesLogic.Core.csproj"
+            "C:\\Users\\StudentDev\\Documents\\GitHub\\AlbinaV2\\PS122019-AlbinaServer-main\\Bor-Server\\sfgsg\\Albina.BusinesLogic.Core.csproj": {
+              "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\AlbinaV2\\PS122019-AlbinaServer-main\\Bor-Server\\sfgsg\\Albina.BusinesLogic.Core.csproj"
             },
-            "C:\\Users\\titov\\Documents\\GitHub\\PS122019-AlbinaServer\\Bor-Server\\Share\\Shareds.csproj": {
-              "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS122019-AlbinaServer\\Bor-Server\\Share\\Shareds.csproj"
+            "C:\\Users\\StudentDev\\Documents\\GitHub\\AlbinaV2\\PS122019-AlbinaServer-main\\Bor-Server\\Share\\Shareds.csproj": {
+              "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\AlbinaV2\\PS122019-AlbinaServer-main\\Bor-Server\\Share\\Shareds.csproj"
             }
           }
         }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DhjNGMN2cQInm21ShvdOn8eYU4xged6npw/QeP2hwGdl0nxAXW/AdyXroOxGF9xlLwSLCpM9O6MrYaY+9WQjkw==",
+  "dgSpecHash": "bBTWtz5Q9TfwzVBALt12JqCxHAt0DFZmitwraDRTPPZseWEFjBFwZfyxSLkyNooLVwp+hb0SR3EpAiD5v7RFmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\titov\\Documents\\GitHub\\PS122019-AlbinaServer\\Bor-Server\\Share\\Shareds.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\StudentDev\\Documents\\GitHub\\AlbinaV2\\PS122019-AlbinaServer-main\\Bor-Server\\Share\\Shareds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\StudentDev\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

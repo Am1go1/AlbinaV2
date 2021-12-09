@@ -1,0 +1,5 @@
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Share\bin\Debug\netcoreapp3.1\Shareds.deps.json
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Share\bin\Debug\netcoreapp3.1\Shareds.dll
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Share\obj\Debug\netcoreapp3.1\Shareds.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Share\obj\Debug\netcoreapp3.1\Shareds.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Share\obj\Debug\netcoreapp3.1\Shareds.AssemblyInfo.cs

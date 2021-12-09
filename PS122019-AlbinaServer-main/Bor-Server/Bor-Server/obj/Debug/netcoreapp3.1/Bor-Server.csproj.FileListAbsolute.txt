@@ -1,0 +1,10 @@
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Bor-Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Bor-Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Bor-Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Bor-Server\bin\Debug\netcoreapp3.1\Bor-Server.exe
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Bor-Server\obj\Debug\netcoreapp3.1\Bor-Server.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Bor-Server\obj\Debug\netcoreapp3.1\Bor-Server.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Bor-Server\obj\Debug\netcoreapp3.1\Bor-Server.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Bor-Server\obj\Debug\netcoreapp3.1\Bor-Server.RazorTargetAssemblyInfo.cache
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Bor-Server\obj\Debug\netcoreapp3.1\staticwebassets\Bor-Server.StaticWebAssets.Manifest.cache
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Bor-Server\obj\Debug\netcoreapp3.1\staticwebassets\Bor-Server.StaticWebAssets.xml

@@ -1,0 +1,5 @@
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\fgsdfgf\bin\Debug\netcoreapp3.1\Bor.Core.deps.json
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\fgsdfgf\bin\Debug\netcoreapp3.1\Bor.Core.dll
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\fgsdfgf\obj\Debug\netcoreapp3.1\Bor.Core.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\fgsdfgf\obj\Debug\netcoreapp3.1\Bor.Core.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\fgsdfgf\obj\Debug\netcoreapp3.1\Bor.Core.AssemblyInfo.cs
