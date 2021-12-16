@@ -65,10 +65,20 @@ namespace Albina.BusinesLogic.Services
             return await ConvertToUserInformation(newUser);
         }
 
-        public Task<UserInformationBlo> Update(UserIdentityBlo userIdentityBlo, UserUpdateBlo userUpdateBlo)
+        public async Task<UserInformationBlo> Update(UserIdentityBlo userIdentityBlo, UserUpdateBlo userUpdateBlo)
         {
-            throw new NotImplementedException();
+             UserRto user = await _context.Users.FirstOrDefaultAsync(h => h.PhoneNumber == userIdentityBlo.Number 
+                && h.PhoneNumberPrefix == userIdentityBlo.NumberPrefix);
+            if (user == null) throw new NotFoundException("Такой пользователь не найден");
+            user.Name = userUpdateBlo.Name;
+            user.Surname = userUpdateBlo.Surname;
+            user.Password = userUpdateBlo.Password;
+            user.ImageUrl = userUpdateBlo.ImageUrl;
+
+            await _context.SaveChangesAsync();
+
         }
+
 
         private async Task<UserInformationBlo> ConvertToUserInformation(UserRto userRto)
         {
