@@ -7,3 +7,6 @@ C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Ser
 C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\fgdfghsfg\obj\Debug\netcoreapp3.1\Albina.BusinesLogic.csprojAssemblyReference.cache
 C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\fgdfghsfg\obj\Debug\netcoreapp3.1\Albina.BusinesLogic.AssemblyInfoInputs.cache
 C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\fgdfghsfg\obj\Debug\netcoreapp3.1\Albina.BusinesLogic.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\fgdfghsfg\bin\Debug\netcoreapp3.1\Albina.BusinesLogic.Core.dll
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\fgdfghsfg\bin\Debug\netcoreapp3.1\Bor.DataAccess.Core.dll
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\fgdfghsfg\bin\Debug\netcoreapp3.1\Shareds.dll

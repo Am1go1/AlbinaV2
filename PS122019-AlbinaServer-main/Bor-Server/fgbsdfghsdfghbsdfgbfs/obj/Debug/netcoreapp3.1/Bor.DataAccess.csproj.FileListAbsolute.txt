@@ -7,3 +7,4 @@ C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Ser
 C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\fgbsdfghsdfghbsdfgbfs\obj\Debug\netcoreapp3.1\Bor.DataAccess.csprojAssemblyReference.cache
 C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\fgbsdfghsdfghbsdfgbfs\obj\Debug\netcoreapp3.1\Bor.DataAccess.AssemblyInfoInputs.cache
 C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\fgbsdfghsdfghbsdfgbfs\obj\Debug\netcoreapp3.1\Bor.DataAccess.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\fgbsdfghsdfghbsdfgbfs\bin\Debug\netcoreapp3.1\Bor.DataAccess.Core.dll

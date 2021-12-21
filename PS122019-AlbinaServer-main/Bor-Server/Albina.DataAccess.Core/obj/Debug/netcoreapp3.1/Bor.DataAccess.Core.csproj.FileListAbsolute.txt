@@ -9,3 +9,7 @@ C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Ser
 C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Albina.DataAccess.Core\obj\Debug\netcoreapp3.1\Bor.DataAccess.Core.csprojAssemblyReference.cache
 C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Albina.DataAccess.Core\obj\Debug\netcoreapp3.1\Bor.DataAccess.Core.AssemblyInfoInputs.cache
 C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Albina.DataAccess.Core\obj\Debug\netcoreapp3.1\Bor.DataAccess.Core.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Albina.DataAccess.Core\bin\Debug\netcoreapp3.1\Bor.DataAccess.Core.pdb
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Albina.DataAccess.Core\obj\Debug\netcoreapp3.1\Bor.DataAccess.Core.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Albina.DataAccess.Core\obj\Debug\netcoreapp3.1\Bor.DataAccess.Core.dll
+C:\Users\StudentDev\Documents\GitHub\AlbinaV2\PS122019-AlbinaServer-main\Bor-Server\Albina.DataAccess.Core\obj\Debug\netcoreapp3.1\Bor.DataAccess.Core.pdb
